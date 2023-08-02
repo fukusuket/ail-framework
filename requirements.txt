@@ -85,6 +85,9 @@ https://github.com/saffsd/langid.py/archive/master.zip
 
 requests
 
+# MISP
+pytaxonomies
+pymispgalaxies
 
 ##### Old packages
 # texttable
